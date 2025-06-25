@@ -22,9 +22,9 @@ Welcome to my GitHub profile! I’m a passionate Computer Science student and al
   
 | Skill / Technology      | Level (1–5) | Notes                                 |
 |:------------------------|:-----------:|:--------------------------------------|
-| **Python**              |      ⭐⭐⭐     | Scripting, automation, data parsing   |
 | **C++**                 |      ⭐⭐⭐     | OOP, clean code, game logic, systems  |
 | **Network Configuration**|      ⭐⭐⭐     | MikroTik RouterOS, Firewall, IP setup |
+| **Python**              |      ⭐⭐      | Scripting, automation, data parsing   |
 | **Linux**               |      ⭐⭐      | Bash scripting, package management    |
 | **Git**                 |      ⭐⭐      | Branching, merges, collaboration      |
 | **Flutter**             |      ⭐⭐      | Simple mobile apps, UI prototyping    |
