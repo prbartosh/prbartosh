@@ -16,27 +16,6 @@ Welcome to my GitHub profile! I’m a passionate Computer Science student and al
 
 ---
 
-## 🛠️ Skills & Proficiency
-
-<div align="center">
-  
-| Skill / Technology      | Level (1–5) | Notes                                 |
-|:------------------------|:-----------:|:--------------------------------------|
-| **C++**                 |      ⭐⭐⭐     | OOP, clean code, game logic, systems  |
-| **Network Configuration**|      ⭐⭐⭐     | MikroTik RouterOS, Firewall, IP setup |
-| **Python**              |      ⭐⭐      | Scripting, automation, data parsing   |
-| **Linux**               |      ⭐⭐      | Bash scripting, package management    |
-| **Git**                 |      ⭐⭐      | Branching, merges, collaboration      |
-| **Flutter**             |      ⭐⭐      | Simple mobile apps, UI prototyping    |
-| **Bash**                |      ⭐⭐      | Shell scripting, automation tasks     |
-| **Java**                |      ⭐       | Basic OOP, still a lot to learn     |
-| **SQL**                 |      ⭐       | Queries, basic schema design          |
-
-
-</div>
-
----
-
 ## 💼 Work Experience
 
 ### IT Intern @AVSystem (GoodLood Technology team), Kraków  
