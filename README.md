@@ -2,7 +2,7 @@
 
 > *“The only way to do great work is to love what you do.”* – Steve Jobs
 
-Welcome to my GitHub profile! I’m a passionate Computer Science student and all-around tech tinkerer. Here’s a quick tour of who I am, what I do.
+Welcome to my GitHub profile! I’m a student passionate in Computer Science.
 
 ---
 
