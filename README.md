@@ -101,6 +101,12 @@ Computer Science student at AGH University of Krakow with production experience 
 
 ---
 
+### 🌍 Currently / Coming Up
+
+- 🏥 **AI in Healthcare Summer School** — Huazhong University of Science & Technology, Wuhan *(July 2026)*
+
+---
+
 ### 📈 GitHub Stats
 
 <div align="center">
